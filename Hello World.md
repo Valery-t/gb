@@ -33,5 +33,9 @@
 
 [Пример](https://www.example.com)
 
+## Картинка
+
+![Geekbrains](https://topcheck.ru/wp-content/uploads/2022/02/geekbrains-1.png)
+
 Начинаем наше знакомство с 
 контролем версий
